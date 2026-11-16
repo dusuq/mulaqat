@@ -1,0 +1,20 @@
+{
+  "name": "mulaqat",
+  "version": "1.0.0",
+  "description": "LinkedIn client-hunting, engagement and appointment-booking assistant, plus LinkedIn post and article drafting. Policy-safe: it drafts and tracks, you send.",
+  "author": {
+    "name": "Ehsan Elahi Zaheer (DUSUQ)",
+    "url": "https://github.com/dusuq"
+  },
+  "homepage": "https://github.com/dusuq/mulaqat",
+  "repository": "https://github.com/dusuq/mulaqat",
+  "license": "MIT",
+  "keywords": [
+    "linkedin",
+    "lead-generation",
+    "appointment-booking",
+    "outreach",
+    "content",
+    "skill"
+  ]
+}

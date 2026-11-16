@@ -1,0 +1,15 @@
+{
+  "name": "mulaqat",
+  "owner": {
+    "name": "Ehsan Elahi Zaheer (DUSUQ)",
+    "url": "https://github.com/dusuq"
+  },
+  "plugins": [
+    {
+      "name": "mulaqat",
+      "source": "./",
+      "version": "1.0.0",
+      "description": "LinkedIn client-hunting, engagement and appointment-booking assistant, plus LinkedIn post and article drafting."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Your own pipeline and config hold prospect data — keep them out of git
+mulaqat-pipeline.csv
+mulaqat.config.md
+.clawness/
